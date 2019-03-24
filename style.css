@@ -1,0 +1,114 @@
+.CenteredText
+{
+	text-align: center;
+}
+
+h1
+{
+	text-align: center;
+	font-size: 16pt;
+}
+
+.PictureDiv
+{
+	text-align: center;
+}
+
+#mainContainer
+{
+	margin: 0 auto;
+	width: 100%;
+	text-align: left;
+	background-color: #000000;
+}
+
+#UpperDiv
+{
+    background-color: #000000;
+	background: url("images/breidafjordur.png");
+    text-align: center;
+    font-size: 50pt;
+	color: #eeaa66;
+	height: 100px;
+	position: relative;
+	margin-left: 100pt;
+	margin-right: 100pt;
+	margin: 0 auto;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+
+#UpperDivInner
+{
+	position: absolute;
+	bottom: 0pt;
+	left: 10%;
+	right: 10%;
+	background-color: #000000;
+	background: url("images/blackTransparent.png");
+}
+
+#MenuDiv
+{
+	color: #113366;
+    font-size: 18pt;
+	text-align: center;
+	background-color: #eeaa66;
+}
+
+#MiddleDiv
+{
+    background-color: #004433;
+	color: #ffcccc;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+#MiddleDivInner
+{
+	padding-top: 40pt;
+	padding-bottom: 40pt;
+	padding-left: 10%;
+	padding-right: 10%;
+	text-align: left;
+}
+
+#BottomDiv
+{
+	text-align: center;
+	color: #ffcccc;
+    font-size: 12pt;
+	padding: 10px;
+	text-align: center;
+	background-color: #000000
+}
+
+body
+{
+	font-family: Verdana, Tahoma, sans-serif;
+    background-color: #000000;
+}
+
+.MenuLink
+{
+	color: #002244;
+	text-decoration: none;
+}
+
+.MenuLinkSelected
+{
+	background-color: #004433;
+	color: #ffcccc;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.MenuLink:hover
+{
+	background-color: #ffcccc;
+}
+
+a
+{
+	color: #0786ca;
+}
