@@ -35,10 +35,10 @@ h1
 #UpperDiv
 {
     background-color: #000000;
-	background: url("images/breidafjordur.png");
+	background: url("images/deepblue.png");
     text-align: center;
     font-size: 50pt;
-	color: #eeaa66;
+	color: #ee8866;
 	height: 100px;
 	position: relative;
 	margin-left: 100pt;
@@ -55,7 +55,7 @@ h1
 	left: 10%;
 	right: 10%;
 	background-color: #000000;
-	background: url("images/blackTransparent.png");
+	background: url("images/ocean.png");
 }
 
 #MenuDiv
@@ -63,12 +63,12 @@ h1
 	color: #113366;
     font-size: 18pt;
 	text-align: center;
-	background-color: #eeaa66;
+	background-color: #ee8866;
 }
 
 #MiddleDiv
 {
-    background-color: #004433;
+    background-color: #003333;
 	color: #ffcccc;
 	margin: 0 auto;
 	width: 800px;
@@ -107,7 +107,7 @@ body
 
 .MenuLinkSelected
 {
-	background-color: #004433;
+	background-color: #003333;
 	color: #ffcccc;
 	font-weight: bold;
 	text-decoration: none;
