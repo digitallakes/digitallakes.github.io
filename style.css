@@ -70,16 +70,16 @@ h1
 {
     background-color: #004433;
 	color: #ffcccc;
-	margin-left: 10%;
-	margin-right: 10%;
+	margin: 0 auto;
+	width: 800px;
 }
 
 #MiddleDivInner
 {
 	padding-top: 40pt;
 	padding-bottom: 40pt;
-	padding-left: 10%;
-	padding-right: 10%;
+	padding-left: 4%;
+	padding-right: 4%;
 	text-align: left;
 }
 
